@@ -9,12 +9,14 @@
 @import "more.css";
 @import "settings.css";
 @import "chat.css";
+@import "mobile.css";
 
 * {
   box-sizing: border-box;
 }
 
 body {
+  cursor: default;
   background-color: white;
   padding: 10px 20px;
   color: #020202;
